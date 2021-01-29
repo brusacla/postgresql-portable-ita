@@ -15,8 +15,8 @@ Si può anche mettere tutto su un drive esterno.
 ## Requisiti di sistema
 * Microsoft Windows 10, 8, 7, Vista o XP.
 
-## Titoli di coda
-* PostgreSQL Portable ITA è una ridistribuzione del repository [postgresql-portable][1] e [PostgreSQL Database Server][2].
+## Fonti
+* PostgreSQL Portable ITA è una ridistribuzione del repository [postgresql-portable] [1] e [PostgreSQL Database Server] [2].
 
 ## Licenza
 
